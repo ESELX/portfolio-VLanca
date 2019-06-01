@@ -2042,7 +2042,7 @@ h2 {
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 3;
+		padding-left: 0;
 		margin: -1em 0 2em -1em;
 	}
 
